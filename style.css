@@ -1,0 +1,36 @@
+h1{
+    font-weight: bolder;
+    color: lightsalmon;
+    font-size: 30px;    
+    font-family: Arial;
+}
+.styleForText{
+align-self: flex-start;
+    font-weight: bolder;
+    color: lightsalmon;
+    font-size: 25px;
+    font-family: Arial;
+}
+h3{
+    text-align-last: left;
+    font-weight: bold;
+    color: lightslategray;
+    font-family: Courier;
+    font-size: 20px;    
+}
+body{
+    background-color: lavenderblush;
+    background-image: url(https://nuwallpaperhd.info/wp-content/uploads/2018/01/Cool-Coffee-Brown-Background-wallpaper.jpg);
+    background-position: center;
+}
+h3 a{
+    text-align-last: left;
+    font-weight: bold;
+    color: lightslategray;
+    font-family: Courier;
+    font-size: 20px;   
+}
+h3 a:hover{
+    color: blueviolet;
+}
+

@@ -1,0 +1,31 @@
+.classPupleColor:hover{
+    background-color: purple;
+}
+.classPupleColor:active{
+    background-color: burlywood
+}
+.classGrayColor:hover{
+    background-color: lightgray
+}
+.classGrayColor:active{
+    background-color: burlywood;
+}
+.classOlivesColor:hover{
+    background-color: olive;
+}
+.classOlivesColor:active{
+    background-color: burlywood
+}
+.classGoldColor:hover{
+    background-color: gold;
+}
+.classGoldColor:active{
+    background-color: burlywood
+}
+.classSmoothlyColorChange:hover{
+    background-color: chocolate;
+    transition: 2s linear;
+}
+.classSmoothlyColorChange:active{
+     background-color: burlywood
+}
